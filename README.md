@@ -2,11 +2,11 @@
 <p align="center">
     <img src="https://evadformacion.com/wp-content/uploads/claywirecomb_2.jpg" alt="Logo" width=1200 height=300>
 
-  <p align="center">
+  <h1 align="center">
     Prototipos de prueba 3D
     <br>
     <br>
-  </p>
+  </h1>
 </p>
 
 
