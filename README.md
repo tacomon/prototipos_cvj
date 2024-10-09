@@ -36,7 +36,7 @@
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
 
 ### Resultado de la lección 1
-<img src="img/resultados/prototipo1" alt="Logo" width=1200 height=300>
+<img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
 
 * Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
@@ -44,13 +44,6 @@
 ### Resultado de la lección 2
 <img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
 
-
-
-
-
-## Planificación
-
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
 María Cárdenas
