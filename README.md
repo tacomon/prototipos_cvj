@@ -43,6 +43,8 @@
 
 ### Resultado de la lección 2
 <img src="img/resultados/prototipo2" alt="Logo" width=1200 height=300>
+![Prototipo 2](img/resultados/prototipo2)
+
 
 
 
