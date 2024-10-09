@@ -42,8 +42,8 @@
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
 
 ### Resultado de la lección 2
-<img src="img/resultados/prototipo2" alt="Logo" width=1200 height=300>
-![Prototipo 2](img/resultados/prototipo2)
+<img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
+
 
 
 
