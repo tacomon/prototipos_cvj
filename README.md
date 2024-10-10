@@ -51,7 +51,7 @@
 #### Resultado de la lección 2
 <img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
 
-#### Lección 3 (desafio)
+#### Lección 3 
   * > Consiste en un personaje con un fondo, en el cual el jugador lo controle. El personaje salta tocando la barra espaciadora mientras se encuentran obstaculos en la pista.
 
 [Ver paquete de lección 3](./Prototipo3.unitypackage)
