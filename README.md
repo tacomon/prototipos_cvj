@@ -34,13 +34,13 @@
 
 [Ver paquete de lección 1](./Prototipo1_laPerrona.unitypackage)
 
-** Lección 1
+#### Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
 
-### Resultado de la lección 1
+#### Resultado de la lección 1
 <img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
 
-** Lección 2
+#### Lección 2
   
 [Ver paquete de lección 2](./Prototipo2.unitypackage)
 
@@ -48,7 +48,7 @@
 [Evidencias](./Prototipo2.pdf)
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
 
-### Resultado de la lección 2
+#### Resultado de la lección 2
 <img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
 
 ** Lección 3 (desafio)
