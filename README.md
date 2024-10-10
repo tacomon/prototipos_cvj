@@ -56,10 +56,10 @@
 
 [Ver paquete de lección 3](./Prototipo3.unitypackage)
     
-#### Resultado de la lección 2
+#### Resultado de la lección 3
 <img src="img/resultados/prototipo3.png" alt="Prototipo 3" width="1200" height="300">
 
-## Autores
+## Autor
 María Cárdenas
 
 ## Copyright
