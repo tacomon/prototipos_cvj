@@ -28,8 +28,10 @@
   * > Prototipo 1:
     > Avanzar con el carro en la pista esquivando los obstaculos que se presentan.
   * >Prototipo 2:
-    > Alimentar a los animales con el alimento agregado (carne), moviendo el personaje de derecha a izquierda y lanzando comida. 
-
+    > Alimentar a los animales con el alimento agregado (carne), moviendo el personaje de derecha a izquierda y lanzando comida.
+  * >Prototipo 3:
+    >El personaje salta para esquivar obstaculos en un escenario.
+    
 ## Código Fuente
 
 #### Lección 1
