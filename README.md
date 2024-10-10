@@ -32,32 +32,31 @@
 
 ## Código Fuente
 
-[Ver paquete de lección 1](./Prototipo1_laPerrona.unitypackage)
-
 #### Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
+
+[Ver paquete de lección 1](./Prototipo1_laPerrona.unitypackage)
 
 #### Resultado de la lección 1
 <img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
 
 #### Lección 2
-  
+  * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
+
 [Ver paquete de lección 2](./Prototipo2.unitypackage)
 
 
 [Evidencias](./Prototipo2.pdf)
-  * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
 
 #### Resultado de la lección 2
 <img src="img/resultados/prototipo2.png" alt="Prototipo 2" width="1200" height="300">
 
-** Lección 3 (desafio)
+#### Lección 3 (desafio)
+  * > Consiste en un personaje con un fondo, en el cual el jugador lo controle. El personaje salta tocando la barra espaciadora mientras se encuentran obstaculos en la pista.
 
 [Ver paquete de lección 3](./Prototipo3.unitypackage)
-
-  * > Consiste en un personaje con un fondo, en el cual el jugador lo controle. El personaje salta tocando la barra espaciadora mientras se encuentran obstaculos en la pista.
     
-### Resultado de la lección 2
+#### Resultado de la lección 2
 <img src="img/resultados/prototipo3.png" alt="Prototipo 3" width="1200" height="300">
 
 ## Autores
