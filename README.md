@@ -34,7 +34,7 @@
     
 ## Código Fuente
 
-#### Lección 1
+### Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
 
 [Ver paquete de lección 1](./Prototipo1_laPerrona.unitypackage)
@@ -42,7 +42,7 @@
 #### Resultado de la lección 1
 <img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
 
-#### Lección 2
+### Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
 
 [Ver paquete de lección 2](./Prototipo2.unitypackage)
@@ -61,7 +61,7 @@
 #### Resultado de la lección 3
 <img src="img/resultados/prototipo3.png" alt="Prototipo 3" width="1200" height="300">
 
-#### Desafio 3
+### Desafio 3
   * > Consiste en un jugador representado por un globo que tiene que avanzar y mantenerse en curso sin ir mucho hacia arriba o hacia abajo, sin embargo no debe tocar el obscatulo de bombas porque explotaria y termina el juego, puede usar el simbolo de moneda para ganar algun punto.
 
 [Ver paquete de Desafio 3](./Desafio3.unitypackage)
@@ -70,7 +70,7 @@
 <img src="img/resultados/desafio3.png" alt="Desafio 3" width="1200" height="300">
 
 #### Evidencia del desafio
-[Evidencias](./Desafio 3.pdf)
+[Evidencias](./Desafio3.pdf)
 
 
 ## Autor
