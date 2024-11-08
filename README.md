@@ -61,6 +61,18 @@
 #### Resultado de la lección 3
 <img src="img/resultados/prototipo3.png" alt="Prototipo 3" width="1200" height="300">
 
+#### Desafio 3
+  * > Consiste en un jugador representado por un globo que tiene que avanzar y mantenerse en curso sin ir mucho hacia arriba o hacia abajo, sin embargo no debe tocar el obscatulo de bombas porque explotaria y termina el juego, puede usar el simbolo de moneda para ganar algun punto.
+
+[Ver paquete de Desafio 3](./Desafio3.unitypackage)
+    
+#### Resultado de la lección 3
+<img src="img/resultados/desafio3.png" alt="Desafio 3" width="1200" height="300">
+
+#### Evidencia del desafio
+[Evidencias](./Desafio 3.pdf)
+
+
 ## Autor
 María Cárdenas
 
