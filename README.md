@@ -41,7 +41,7 @@
 ### Lección 1
   * > El carro hacia adelante en la pista esquivando los obstaculos que se presentan, ya sean rocas, objetos de carretera, barriles, etc.
 
-[Ver paquete de lección 1](./Prototipo1_laPerrona.unitypackage)
+[Ver paquete de lección 1](./Prototipos/Prototipo1_laPerrona.unitypackage)
 
 #### Resultado de la lección 1
 <img src="img/resultados/prototipo1.png" alt="Prototipo 1" width="1200" height="300">
@@ -49,7 +49,7 @@
 ### Lección 2
   * > El humano descide alimentar a sus animales con carne, lanzandola hacia ellos mientras los animales se dirigen hacia él, una vez que se los animales tocan la comida se destruye el objeto.
 
-[Ver paquete de lección 2](./Prototipo2.unitypackage)
+[Ver paquete de lección 2](./Prototipos/Prototipo2.unitypackage)
 
 
 [Evidencias](./Prototipo2.pdf)
@@ -60,7 +60,7 @@
 ### Desafio 2
   * > Consiste en un jugador, que al momento que bolas caen aleatoriamente del cielo y tiene que enviar a su perro a atraparlas antes de que caigan al suelo.
 
-[Ver paquete de Desafio 2](./Desafio2.unitypackage)
+[Ver paquete de Desafio 2](./Desafios/Desafio2.unitypackage)
     
 #### Resultado de la lección 2
 <img src="img/resultados/desafio2.png" alt="Desafio 2" width="1200" height="300">
@@ -71,7 +71,7 @@
 #### Lección 3 
   * > Consiste en un personaje con un fondo, en el cual el jugador lo controle. El personaje salta tocando la barra espaciadora mientras se encuentran obstaculos en la pista.
 
-[Ver paquete de lección 3](./Prototipo3.unitypackage)
+[Ver paquete de lección 3](./Prototipos/Prototipo3.unitypackage)
     
 #### Resultado de la lección 3
 <img src="img/resultados/prototipo3.png" alt="Prototipo 3" width="1200" height="300">
@@ -79,7 +79,7 @@
 ### Desafio 3
   * > Consiste en un jugador representado por un globo que tiene que avanzar y mantenerse en curso sin ir mucho hacia arriba o hacia abajo, sin embargo no debe tocar el obscatulo de bombas porque explotaria y termina el juego, puede usar el simbolo de moneda para ganar algun punto.
 
-[Ver paquete de Desafio 3](./Desafio3.unitypackage)
+[Ver paquete de Desafio 3](./Desafios/Desafio3.unitypackage)
     
 #### Resultado de la lección 3
 <img src="img/resultados/desafio3.png" alt="Desafio 3" width="1200" height="300">
@@ -91,7 +91,7 @@
 #### Lección 4 
   * > Consiste en que el personaje (pelota) debe permanecer en la pista pero esquivando a sus enemigos que intentaran sacarla, los enemigos no desaparecen, sin embargo puede tomar alguna ayuda que le permitira tener una especie de poder para mantenerse más tiempo.
 
-[Ver paquete de lección 4](./Prototipo4.unitypackage)
+[Ver paquete de lección 4](./Prototipos/Prototipo4.unitypackage)
     
 #### Resultado de la lección 4
 <img src="img/resultados/prototipo4.png" alt="Prototipo 4" width="1200" height="300">
@@ -99,7 +99,7 @@
 ### Desafio 4
   * > Consiste en controlar una pelota girando la cámara alrededor de ella y aplicando una fuerza hacia adelante, pero en lugar de tirarla por el borde, el objetivo es lanzarla hacia la red contraria mientras ellos intentan ingresar a tu red.
 
-[Ver paquete de Desafio 4](./Desafio4.unitypackage)
+[Ver paquete de Desafio 4](./Desafios/Desafio4.unitypackage)
     
 #### Resultado de la lección 4
 <img src="img/resultados/desafio4.png" alt="Desafio 4" width="1200" height="300">
@@ -111,7 +111,7 @@
 #### Lección 5 
   * > El jugador debera destruir los objetos que salen da la parte inferior girando, el debera tocar los objetos buenos y evitar los malos, los objetos salen de forma aleatoria y regresaran hacia abajo, podra descidir el nivel de dificultad para descurbrir sus habilidades.
 
-[Ver paquete de lección 5](./Prototipo5.unitypackage)
+[Ver paquete de lección 5](./Prototipos/Prototipo5.unitypackage)
     
 #### Resultado de la lección 5
 <img src="img/resultados/prototipo5.png" alt="Prototipo 5" width="1200" height="300">
@@ -119,7 +119,7 @@
 ### Desafio 5
   * > Consiste en conseguir toda la comida que aparece en una cuadrícula mientras evitas las calaveras, ya que pueden perjuducar y terminar el juego.
 
-[Ver paquete de Desafio 5](./Desafio5.unitypackage)
+[Ver paquete de Desafio 5](./Desafios/Desafio5.unitypackage)
     
 #### Resultado de la lección 5
 <img src="img/resultados/desafio5.png" alt="Desafio 5" width="1200" height="300">
