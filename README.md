@@ -134,7 +134,7 @@
 [Ver paquete de Desafio Menu](./Desafios/DesafioMenu.unitypackage)
     
 #### Resultado de la lección 5
-<img src="img/resultados/desafioMenu.png" alt="Desafio Menu" width="1200" height="300">
+<img src="img/resultados/DesafioMenu.png" alt="Desafio Menu" width="1200" height="300">
 
 ---
 ## Autor
